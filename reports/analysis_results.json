@@ -1,0 +1,2246 @@
+{
+  "pages": [
+    {
+      "error": "Timeout 30000ms exceeded."
+    },
+    {
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.beacontutorials.com/scholarship\", waiting until \"load\"\n"
+    },
+    {
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.beacontutorials.com/courses\", waiting until \"load\"\n"
+    },
+    {
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.beacontutorials.com/about\", waiting until \"load\"\n"
+    },
+    {
+      "url": "https://www.beacontutorials.com/contact",
+      "title": "Beacon Tutorial",
+      "screenshot": "screenshots\\www.beacontutorials.com_contact.png",
+      "page_info": {
+        "url": "https://www.beacontutorials.com/contact",
+        "title": "Beacon Tutorial",
+        "meta_description": "",
+        "viewport": {
+          "width": 1920,
+          "height": 1080
+        },
+        "scroll_height": 4397,
+        "has_jquery": false
+      },
+      "cv_elements": [
+        {
+          "type": "input",
+          "bounds": {
+            "x": 1097,
+            "y": 947,
+            "width": 147,
+            "height": 38
+          },
+          "confidence": 0.6
+        },
+        {
+          "type": "input",
+          "bounds": {
+            "x": 458,
+            "y": 739,
+            "width": 162,
+            "height": 41
+          },
+          "confidence": 0.6
+        },
+        {
+          "type": "input",
+          "bounds": {
+            "x": 1640,
+            "y": 7,
+            "width": 72,
+            "height": 33
+          },
+          "confidence": 0.6
+        },
+        {
+          "type": "image",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 4397
+          },
+          "confidence": 0.5
+        }
+      ],
+      "dom_elements": {
+        "buttons": [
+          {
+            "tag": "button",
+            "text": "Login",
+            "id": "",
+            "class": "bg-[#4E77BB] text-white px-4 py-1 rounded-md hover:bg-[#6ea3fa]\n              hover:text-black transition-colors",
+            "bounds": {
+              "x": 1640.84375,
+              "y": 8,
+              "width": 71.15625,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "id": "",
+            "class": "text-gray-700 hover:text-blue-600 focus:outline-none",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "visible": false
+          },
+          {
+            "tag": "button",
+            "text": "Make an Inquiry",
+            "id": "",
+            "class": "bg-[#E85900] text-white px-6 py-2 rounded-full \n                             transition-transform transform scale-100 hover:scale-105",
+            "bounds": {
+              "x": 457.734375,
+              "y": 740,
+              "width": 161.84375,
+              "height": 40
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Send Message",
+            "id": "",
+            "class": "w-auto px-6 py-2 text-sm font-bold text-white bg-[#E85900] hover:bg-[#E85901] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#FFA500] rounded-md shadow-md transition-colors mx-auto block",
+            "bounds": {
+              "x": 1098.03125,
+              "y": 948,
+              "width": 145.265625,
+              "height": 36
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "What subjects do you offer tutoring for?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 1829,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "What are your teaching methods?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 1913,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Do you offer online classes?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 1997,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "How can I view your course offerings?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2081,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "How do I enroll in your programs?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2165,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Where can I learn more about your success stories?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2249,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Where can I find educational resources and student blogs?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2333,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "How can I view your latest events and achievements?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2417,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Are scholarships available for students?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2501,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Want to learn more about Beacon Tutorials?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2585,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Where can I view the results of your students?",
+            "id": "",
+            "class": "w-full p-5 rounded-lg text-left transition-all duration-300 bg-blue-50 hover:bg-blue-100",
+            "bounds": {
+              "x": 576,
+              "y": 2669,
+              "width": 768,
+              "height": 68
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "id": "",
+            "class": "bg-blue-500 shadow-lg flex items-center justify-center transition-all duration-700 ease-in-out p-4 rounded-full",
+            "bounds": {
+              "x": 1844,
+              "y": 1004,
+              "width": 56,
+              "height": 56
+            },
+            "visible": true
+          }
+        ],
+        "inputs": [
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "name",
+            "id": "name",
+            "placeholder": "John",
+            "required": true,
+            "bounds": {
+              "x": 899.65625,
+              "y": 616,
+              "width": 542,
+              "height": 38
+            },
+            "visible": true
+          },
+          {
+            "tag": "input",
+            "type": "tel",
+            "name": "phone",
+            "id": "phone",
+            "placeholder": "9876543210",
+            "required": true,
+            "bounds": {
+              "x": 899.65625,
+              "y": 706,
+              "width": 542,
+              "height": 38
+            },
+            "visible": true
+          },
+          {
+            "tag": "input",
+            "type": "email",
+            "name": "email",
+            "id": "email",
+            "placeholder": "john@example.com",
+            "required": true,
+            "bounds": {
+              "x": 899.65625,
+              "y": 796,
+              "width": 542,
+              "height": 38
+            },
+            "visible": true
+          },
+          {
+            "tag": "input",
+            "type": "text",
+            "name": "subject",
+            "id": "subject",
+            "placeholder": "Inquiry about tuition services",
+            "required": true,
+            "bounds": {
+              "x": 899.65625,
+              "y": 886,
+              "width": 542,
+              "height": 38
+            },
+            "visible": true
+          }
+        ],
+        "links": [
+          {
+            "text": "",
+            "href": "https://www.beacontutorials.com/",
+            "id": "",
+            "bounds": {
+              "x": 1696,
+              "y": 48,
+              "width": 0,
+              "height": 0
+            },
+            "visible": false
+          },
+          {
+            "text": "Home",
+            "href": "https://www.beacontutorials.com/",
+            "id": "",
+            "bounds": {
+              "x": 771.21875,
+              "y": 72,
+              "width": 42.6875,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.beacontutorials.com/about",
+            "id": "",
+            "bounds": {
+              "x": 845.90625,
+              "y": 72,
+              "width": 65.8125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Courses",
+            "href": "https://www.beacontutorials.com/all-courses",
+            "id": "",
+            "bounds": {
+              "x": 943.71875,
+              "y": 72,
+              "width": 59.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Results",
+            "href": "https://www.beacontutorials.com/all-results",
+            "id": "",
+            "bounds": {
+              "x": 1035.296875,
+              "y": 72,
+              "width": 53.359375,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Testimonials",
+            "href": "https://www.beacontutorials.com/testimonial",
+            "id": "",
+            "bounds": {
+              "x": 1120.65625,
+              "y": 72,
+              "width": 88.03125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Student Corner",
+            "href": "https://www.beacontutorials.com/student-corner",
+            "id": "",
+            "bounds": {
+              "x": 1240.6875,
+              "y": 72,
+              "width": 108.515625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Scholarships",
+            "href": "https://www.beacontutorials.com/scholarship",
+            "id": "",
+            "bounds": {
+              "x": 1381.203125,
+              "y": 72,
+              "width": 91.609375,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Event Gallery",
+            "href": "https://www.beacontutorials.com/event-gallery",
+            "id": "",
+            "bounds": {
+              "x": 1504.8125,
+              "y": 72,
+              "width": 96.046875,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.beacontutorials.com/contact",
+            "id": "",
+            "bounds": {
+              "x": 1632.859375,
+              "y": 72,
+              "width": 79.140625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "beacontutorials7@gmail.com",
+            "href": "mailto:beacontutorials7@gmail.com",
+            "id": "",
+            "bounds": {
+              "x": 420,
+              "y": 652,
+              "width": 206.5625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "+91 8446222268",
+            "href": "tel:+918446222268",
+            "id": "",
+            "bounds": {
+              "x": 420,
+              "y": 692,
+              "width": 120.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "beacontutorials7@gmail.com",
+            "href": "mailto:beacontutorials7@gmail.com",
+            "id": "",
+            "bounds": {
+              "x": 412,
+              "y": 1180,
+              "width": 206.5625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "+91 8446222268",
+            "href": "tel:+918446222268",
+            "id": "",
+            "bounds": {
+              "x": 412,
+              "y": 1216,
+              "width": 120.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "beacontutorials02.suncity@gmail.com",
+            "href": "mailto:beacontutorials02.suncity@gmail.com",
+            "id": "",
+            "bounds": {
+              "x": 1036,
+              "y": 1180,
+              "width": 269.703125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "+91 9527069991",
+            "href": "tel:+919527069991",
+            "id": "",
+            "bounds": {
+              "x": 1036,
+              "y": 1216,
+              "width": 120.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.beacontutorials.com/about",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3515,
+              "width": 65.8125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Our Courses",
+            "href": "https://www.beacontutorials.com/courses",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3547,
+              "width": 90.703125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Scholarships",
+            "href": "https://www.beacontutorials.com/scholarships",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3579,
+              "width": 91.609375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Our Results",
+            "href": "https://www.beacontutorials.com/all-results",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3611,
+              "width": 84.46875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Testimonials",
+            "href": "https://www.beacontutorials.com/testimonial",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3643,
+              "width": 88.03125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Event Gallary",
+            "href": "https://www.beacontutorials.com/event-gallery",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3675,
+              "width": 96.046875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.beacontutorials.com/contact",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3707,
+              "width": 79.140625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "8th, 9th, 10th Foundation",
+            "href": "https://www.beacontutorials.com/all-courses#8th-9th-10th-foundation",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3515,
+              "width": 177.921875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "8th, 9th, 10th Regular Board Batches",
+            "href": "https://www.beacontutorials.com/all-courses#8th-9th-10th-regular-board-batches",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3547,
+              "width": 263.28125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "SSC",
+            "href": "https://www.beacontutorials.com/all-courses#ssc",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3579,
+              "width": 32.90625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "CBSE",
+            "href": "https://www.beacontutorials.com/all-courses#cbse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3611,
+              "width": 43.578125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "ICSE",
+            "href": "https://www.beacontutorials.com/all-courses#icse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3643,
+              "width": 37.34375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th Board Classes",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-board-classes",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3675,
+              "width": 187.828125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th JEE Mains + Advance",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-jee-mains-and-advance",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3707,
+              "width": 239.859375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th NEET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-neet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3739,
+              "width": 126.453125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th IISER",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-iiser",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3771,
+              "width": 125.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th MHTCET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-mhtcet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3803,
+              "width": 150.4375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th NDA",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-nda",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3835,
+              "width": 117.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th CUET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-cuet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3867,
+              "width": 127.328125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "HSC",
+            "href": "https://www.beacontutorials.com/all-courses#hsc",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3899,
+              "width": 33.78125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE Mains",
+            "href": "https://www.beacontutorials.com/all-courses#jee-mains",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3931,
+              "width": 76.46875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE Advanced",
+            "href": "https://www.beacontutorials.com/all-courses#jee-advanced",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3963,
+              "width": 104.078125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE (Mains + Advance)",
+            "href": "https://www.beacontutorials.com/all-courses#jee-mains-and-advance",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3995,
+              "width": 166.75,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET",
+            "href": "https://www.beacontutorials.com/all-courses#neet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4027,
+              "width": 42.671875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET Foundation",
+            "href": "https://www.beacontutorials.com/all-courses#neet-foundation",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4059,
+              "width": 126.890625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET Repeaters",
+            "href": "https://www.beacontutorials.com/all-courses#neet-repeaters",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4091,
+              "width": 120.65625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "MHT - CET",
+            "href": "https://www.beacontutorials.com/all-courses#mht-cet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4123,
+              "width": 80.59375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NDA",
+            "href": "https://www.beacontutorials.com/all-courses#nda",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4155,
+              "width": 33.78125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NTSE",
+            "href": "https://www.beacontutorials.com/all-courses#ntse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4187,
+              "width": 42.671875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "IISER",
+            "href": "https://www.beacontutorials.com/all-courses#iiser",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4219,
+              "width": 41.796875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "CUET",
+            "href": "https://www.beacontutorials.com/all-courses#cuet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 4251,
+              "width": 43.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.instagram.com/beacontutorialspune",
+            "id": "",
+            "bounds": {
+              "x": 1189.328125,
+              "y": 3512,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.linkedin.com/company/beacon-tutorials/",
+            "id": "",
+            "bounds": {
+              "x": 1237.328125,
+              "y": 3512,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.facebook.com/BeaconTutorialsPune",
+            "id": "",
+            "bounds": {
+              "x": 1285.328125,
+              "y": 3512,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://youtube.com/@beacontutorialspune8750?si=RP78K2qNM22wySJm",
+            "id": "",
+            "bounds": {
+              "x": 1333.328125,
+              "y": 3512,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "WEB Team",
+            "href": "https://www.beacontutorials.com/developers",
+            "id": "",
+            "bounds": {
+              "x": 940.296875,
+              "y": 4355,
+              "width": 77.546875,
+              "height": 16
+            },
+            "visible": true
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.beacontutorials.com/contact",
+            "method": "get",
+            "id": "",
+            "inputs_count": 4,
+            "bounds": {
+              "x": 809.328125,
+              "y": 588,
+              "width": 722.671875,
+              "height": 396
+            }
+          }
+        ],
+        "images": [
+          {
+            "src": "https://www.beacontutorials.com/assets/logo-Ds3XyFdp.png",
+            "alt": "Logo",
+            "id": "",
+            "bounds": {
+              "x": 16,
+              "y": 16,
+              "width": 178.59375,
+              "height": 96
+            },
+            "visible": true
+          },
+          {
+            "src": "https://www.beacontutorials.com/assets/contact-DeGTWH10.png",
+            "alt": "Contact",
+            "id": "",
+            "bounds": {
+              "x": 920,
+              "y": 176,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Contact Us",
+            "id": "",
+            "bounds": {
+              "x": 528,
+              "y": 260,
+              "width": 864,
+              "height": 40
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Get in Touch",
+            "id": "",
+            "bounds": {
+              "x": 384,
+              "y": 524,
+              "width": 309.328125,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Beacon Mohan Nagar - Address",
+            "id": "",
+            "bounds": {
+              "x": 376,
+              "y": 1092,
+              "width": 544,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Beacon Suncity Ambegaon - Address",
+            "id": "",
+            "bounds": {
+              "x": 1000,
+              "y": 1092,
+              "width": 544,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions",
+            "id": "",
+            "bounds": {
+              "x": 385,
+              "y": 1705,
+              "width": 1150,
+              "height": 36
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "What subjects do you offer tutoring for?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 1849,
+              "width": 382.203125,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "What are your teaching methods?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 1933,
+              "width": 322.265625,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer online classes?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2017,
+              "width": 272.296875,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "How can I view your course offerings?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2101,
+              "width": 365.640625,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "How do I enroll in your programs?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2185,
+              "width": 325.578125,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Where can I learn more about your success stories?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2269,
+              "width": 496.84375,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Where can I find educational resources and student blogs?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2353,
+              "width": 562.328125,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "How can I view your latest events and achievements?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2437,
+              "width": 509.078125,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Are scholarships available for students?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2521,
+              "width": 385.6875,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Want to learn more about Beacon Tutorials?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2605,
+              "width": 418.9375,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Where can I view the results of your students?",
+            "id": "",
+            "bounds": {
+              "x": 596,
+              "y": 2689,
+              "width": 442.328125,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Why Choose Us?",
+            "id": "",
+            "bounds": {
+              "x": 360,
+              "y": 2954,
+              "width": 1200,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "About Us",
+            "id": "",
+            "bounds": {
+              "x": 360,
+              "y": 3296,
+              "width": 1200,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Quick Links",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 3468,
+              "width": 394.65625,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Admission Policies",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 3468,
+              "width": 394.671875,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Connect with Us",
+            "id": "",
+            "bounds": {
+              "x": 1189.328125,
+              "y": 3468,
+              "width": 394.65625,
+              "height": 28
+            },
+            "visible": true
+          }
+        ]
+      },
+      "forms": [
+        {
+          "action": "https://www.beacontutorials.com/contact",
+          "method": "get",
+          "inputs": [
+            {
+              "name": "name",
+              "type": "text",
+              "required": true,
+              "placeholder": "John"
+            },
+            {
+              "name": "phone",
+              "type": "tel",
+              "required": true,
+              "placeholder": "9876543210"
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "required": true,
+              "placeholder": "john@example.com"
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "required": true,
+              "placeholder": "Inquiry about tuition services"
+            }
+          ],
+          "has_validation": true
+        }
+      ],
+      "navigation": {
+        "nav_count": 1,
+        "menu_count": 0,
+        "breadcrumb_count": 0,
+        "has_mobile_menu": false
+      },
+      "accessibility": {
+        "issues": [],
+        "images_total": 2,
+        "images_with_alt": 2,
+        "heading_structure": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "has_skip_link": false
+      }
+    },
+    {
+      "url": "https://www.beacontutorials.com/event-gallery",
+      "title": "Beacon Tutorial",
+      "screenshot": "screenshots\\www.beacontutorials.com_event-gallery.png",
+      "page_info": {
+        "url": "https://www.beacontutorials.com/event-gallery",
+        "title": "Beacon Tutorial",
+        "meta_description": "",
+        "viewport": {
+          "width": 1920,
+          "height": 1080
+        },
+        "scroll_height": 2787,
+        "has_jquery": false
+      },
+      "cv_elements": [
+        {
+          "type": "input",
+          "bounds": {
+            "x": 1640,
+            "y": 7,
+            "width": 72,
+            "height": 33
+          },
+          "confidence": 0.6
+        },
+        {
+          "type": "image",
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 2787
+          },
+          "confidence": 0.5
+        }
+      ],
+      "dom_elements": {
+        "buttons": [
+          {
+            "tag": "button",
+            "text": "Login",
+            "id": "",
+            "class": "bg-[#4E77BB] text-white px-4 py-1 rounded-md hover:bg-[#6ea3fa]\n              hover:text-black transition-colors",
+            "bounds": {
+              "x": 1640.84375,
+              "y": 8,
+              "width": 71.15625,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "id": "",
+            "class": "text-gray-700 hover:text-blue-600 focus:outline-none",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            },
+            "visible": false
+          },
+          {
+            "tag": "button",
+            "text": "Read More",
+            "id": "",
+            "class": "underline font-bold",
+            "bounds": {
+              "x": 372,
+              "y": 818,
+              "width": 76.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "Read More",
+            "id": "",
+            "class": "underline font-bold",
+            "bounds": {
+              "x": 1012,
+              "y": 818,
+              "width": 76.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "tag": "button",
+            "text": "",
+            "id": "",
+            "class": "bg-blue-500 shadow-lg flex items-center justify-center transition-all duration-700 ease-in-out p-4 rounded-full",
+            "bounds": {
+              "x": 1844,
+              "y": 1004,
+              "width": 56,
+              "height": 56
+            },
+            "visible": true
+          }
+        ],
+        "inputs": [],
+        "links": [
+          {
+            "text": "",
+            "href": "https://www.beacontutorials.com/",
+            "id": "",
+            "bounds": {
+              "x": 1696,
+              "y": 48,
+              "width": 0,
+              "height": 0
+            },
+            "visible": false
+          },
+          {
+            "text": "Home",
+            "href": "https://www.beacontutorials.com/",
+            "id": "",
+            "bounds": {
+              "x": 771.21875,
+              "y": 72,
+              "width": 42.6875,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.beacontutorials.com/about",
+            "id": "",
+            "bounds": {
+              "x": 845.90625,
+              "y": 72,
+              "width": 65.8125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Courses",
+            "href": "https://www.beacontutorials.com/all-courses",
+            "id": "",
+            "bounds": {
+              "x": 943.71875,
+              "y": 72,
+              "width": 59.578125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Results",
+            "href": "https://www.beacontutorials.com/all-results",
+            "id": "",
+            "bounds": {
+              "x": 1035.296875,
+              "y": 72,
+              "width": 53.359375,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Testimonials",
+            "href": "https://www.beacontutorials.com/testimonial",
+            "id": "",
+            "bounds": {
+              "x": 1120.65625,
+              "y": 72,
+              "width": 88.03125,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Student Corner",
+            "href": "https://www.beacontutorials.com/student-corner",
+            "id": "",
+            "bounds": {
+              "x": 1240.6875,
+              "y": 72,
+              "width": 108.515625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Scholarships",
+            "href": "https://www.beacontutorials.com/scholarship",
+            "id": "",
+            "bounds": {
+              "x": 1381.203125,
+              "y": 72,
+              "width": 91.609375,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Event Gallery",
+            "href": "https://www.beacontutorials.com/event-gallery",
+            "id": "",
+            "bounds": {
+              "x": 1504.8125,
+              "y": 72,
+              "width": 96.046875,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.beacontutorials.com/contact",
+            "id": "",
+            "bounds": {
+              "x": 1632.859375,
+              "y": 72,
+              "width": 79.140625,
+              "height": 24
+            },
+            "visible": true
+          },
+          {
+            "text": "About Us",
+            "href": "https://www.beacontutorials.com/about",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 1905,
+              "width": 65.8125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Our Courses",
+            "href": "https://www.beacontutorials.com/courses",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 1937,
+              "width": 90.703125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Scholarships",
+            "href": "https://www.beacontutorials.com/scholarships",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 1969,
+              "width": 91.609375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Our Results",
+            "href": "https://www.beacontutorials.com/all-results",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 2001,
+              "width": 84.46875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Testimonials",
+            "href": "https://www.beacontutorials.com/testimonial",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 2033,
+              "width": 88.03125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Event Gallary",
+            "href": "https://www.beacontutorials.com/event-gallery",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 2065,
+              "width": 96.046875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://www.beacontutorials.com/contact",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 2097,
+              "width": 79.140625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "8th, 9th, 10th Foundation",
+            "href": "https://www.beacontutorials.com/all-courses#8th-9th-10th-foundation",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 1905,
+              "width": 177.921875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "8th, 9th, 10th Regular Board Batches",
+            "href": "https://www.beacontutorials.com/all-courses#8th-9th-10th-regular-board-batches",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 1937,
+              "width": 263.28125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "SSC",
+            "href": "https://www.beacontutorials.com/all-courses#ssc",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 1969,
+              "width": 32.90625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "CBSE",
+            "href": "https://www.beacontutorials.com/all-courses#cbse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2001,
+              "width": 43.578125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "ICSE",
+            "href": "https://www.beacontutorials.com/all-courses#icse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2033,
+              "width": 37.34375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th Board Classes",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-board-classes",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2065,
+              "width": 187.828125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th JEE Mains + Advance",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-jee-mains-and-advance",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2097,
+              "width": 239.859375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th NEET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-neet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2129,
+              "width": 126.453125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th IISER",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-iiser",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2161,
+              "width": 125.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th MHTCET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-mhtcet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2193,
+              "width": 150.4375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th NDA",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-nda",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2225,
+              "width": 117.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "11th + 12th CUET",
+            "href": "https://www.beacontutorials.com/all-courses#11th-and-12th-cuet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2257,
+              "width": 127.328125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "HSC",
+            "href": "https://www.beacontutorials.com/all-courses#hsc",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2289,
+              "width": 33.78125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE Mains",
+            "href": "https://www.beacontutorials.com/all-courses#jee-mains",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2321,
+              "width": 76.46875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE Advanced",
+            "href": "https://www.beacontutorials.com/all-courses#jee-advanced",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2353,
+              "width": 104.078125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "JEE (Mains + Advance)",
+            "href": "https://www.beacontutorials.com/all-courses#jee-mains-and-advance",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2385,
+              "width": 166.75,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET",
+            "href": "https://www.beacontutorials.com/all-courses#neet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2417,
+              "width": 42.671875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET Foundation",
+            "href": "https://www.beacontutorials.com/all-courses#neet-foundation",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2449,
+              "width": 126.890625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NEET Repeaters",
+            "href": "https://www.beacontutorials.com/all-courses#neet-repeaters",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2481,
+              "width": 120.65625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "MHT - CET",
+            "href": "https://www.beacontutorials.com/all-courses#mht-cet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2513,
+              "width": 80.59375,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NDA",
+            "href": "https://www.beacontutorials.com/all-courses#nda",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2545,
+              "width": 33.78125,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "NTSE",
+            "href": "https://www.beacontutorials.com/all-courses#ntse",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2577,
+              "width": 42.671875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "IISER",
+            "href": "https://www.beacontutorials.com/all-courses#iiser",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2609,
+              "width": 41.796875,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "CUET",
+            "href": "https://www.beacontutorials.com/all-courses#cuet",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 2641,
+              "width": 43.5625,
+              "height": 17
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.instagram.com/beacontutorialspune",
+            "id": "",
+            "bounds": {
+              "x": 1189.328125,
+              "y": 1902,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.linkedin.com/company/beacon-tutorials/",
+            "id": "",
+            "bounds": {
+              "x": 1237.328125,
+              "y": 1902,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://www.facebook.com/BeaconTutorialsPune",
+            "id": "",
+            "bounds": {
+              "x": 1285.328125,
+              "y": 1902,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "",
+            "href": "https://youtube.com/@beacontutorialspune8750?si=RP78K2qNM22wySJm",
+            "id": "",
+            "bounds": {
+              "x": 1333.328125,
+              "y": 1902,
+              "width": 32,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "text": "WEB Team",
+            "href": "https://www.beacontutorials.com/developers",
+            "id": "",
+            "bounds": {
+              "x": 940.296875,
+              "y": 2745,
+              "width": 77.546875,
+              "height": 16
+            },
+            "visible": true
+          }
+        ],
+        "forms": [],
+        "images": [
+          {
+            "src": "https://www.beacontutorials.com/assets/logo-Ds3XyFdp.png",
+            "alt": "Logo",
+            "id": "",
+            "bounds": {
+              "x": 16,
+              "y": 16,
+              "width": 178.59375,
+              "height": 96
+            },
+            "visible": true
+          },
+          {
+            "src": "https://www.beacontutorials.com/assets/event-C5pCxrJr.png",
+            "alt": "",
+            "id": "",
+            "bounds": {
+              "x": 920,
+              "y": 176,
+              "width": 80,
+              "height": 80
+            },
+            "visible": true
+          },
+          {
+            "src": "https://res.cloudinary.com/duqqgahvi/image/upload/v1742026272/pz38qoegpn8rvqhtiqcb.jpg",
+            "alt": "undefined - Image 1",
+            "id": "",
+            "bounds": {
+              "x": 356,
+              "y": 624,
+              "width": 184,
+              "height": 138
+            },
+            "visible": true
+          },
+          {
+            "src": "https://res.cloudinary.com/duqqgahvi/image/upload/v1742026289/auzgazbxzgeuyx7qdayz.jpg",
+            "alt": "undefined - Image 2",
+            "id": "",
+            "bounds": {
+              "x": 548,
+              "y": 624,
+              "width": 184,
+              "height": 138
+            },
+            "visible": true
+          },
+          {
+            "src": "https://res.cloudinary.com/duqqgahvi/image/upload/v1742026289/gug2hjxbvejxkky3ycag.jpg",
+            "alt": "undefined - Image 3",
+            "id": "",
+            "bounds": {
+              "x": 740,
+              "y": 624,
+              "width": 184,
+              "height": 138
+            },
+            "visible": true
+          },
+          {
+            "src": "https://res.cloudinary.com/duqqgahvi/image/upload/v1742028180/ad3mph4r9vql3zmzolgf.jpg",
+            "alt": "undefined - Image 1",
+            "id": "",
+            "bounds": {
+              "x": 996,
+              "y": 624,
+              "width": 184,
+              "height": 138
+            },
+            "visible": true
+          },
+          {
+            "src": "https://res.cloudinary.com/duqqgahvi/image/upload/v1742028349/sholvzsi3wwqtj5qfhul.jpg",
+            "alt": "undefined - Image 2",
+            "id": "",
+            "bounds": {
+              "x": 1188,
+              "y": 624,
+              "width": 184,
+              "height": 138
+            },
+            "visible": true
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Event Gallery",
+            "id": "",
+            "bounds": {
+              "x": 528,
+              "y": 272,
+              "width": 864,
+              "height": 40
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Hall Of Fame",
+            "id": "",
+            "bounds": {
+              "x": 356,
+              "y": 544,
+              "width": 568,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h2",
+            "text": "Freshers 2024 Bash",
+            "id": "",
+            "bounds": {
+              "x": 996,
+              "y": 544,
+              "width": 568,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Why Choose Us?",
+            "id": "",
+            "bounds": {
+              "x": 360,
+              "y": 1344,
+              "width": 1200,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "About Us",
+            "id": "",
+            "bounds": {
+              "x": 360,
+              "y": 1686,
+              "width": 1200,
+              "height": 32
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Quick Links",
+            "id": "",
+            "bounds": {
+              "x": 336,
+              "y": 1858,
+              "width": 394.65625,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Admission Policies",
+            "id": "",
+            "bounds": {
+              "x": 762.65625,
+              "y": 1858,
+              "width": 394.671875,
+              "height": 28
+            },
+            "visible": true
+          },
+          {
+            "tag": "h3",
+            "text": "Connect with Us",
+            "id": "",
+            "bounds": {
+              "x": 1189.328125,
+              "y": 1858,
+              "width": 394.65625,
+              "height": 28
+            },
+            "visible": true
+          }
+        ]
+      },
+      "forms": [],
+      "navigation": {
+        "nav_count": 1,
+        "menu_count": 0,
+        "breadcrumb_count": 0,
+        "has_mobile_menu": false
+      },
+      "accessibility": {
+        "issues": [
+          "1 images missing alt text"
+        ],
+        "images_total": 7,
+        "images_with_alt": 6,
+        "heading_structure": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "has_skip_link": false
+      }
+    }
+  ],
+  "total_pages": 6,
+  "forms": [
+    {
+      "action": "https://www.beacontutorials.com/contact",
+      "method": "get",
+      "inputs": [
+        {
+          "name": "name",
+          "type": "text",
+          "required": true,
+          "placeholder": "John"
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "required": true,
+          "placeholder": "9876543210"
+        },
+        {
+          "name": "email",
+          "type": "email",
+          "required": true,
+          "placeholder": "john@example.com"
+        },
+        {
+          "name": "subject",
+          "type": "text",
+          "required": true,
+          "placeholder": "Inquiry about tuition services"
+        }
+      ],
+      "has_validation": true
+    }
+  ],
+  "api_endpoints": [],
+  "user_flows": [],
+  "common_elements": {},
+  "accessibility_issues": []
+}

@@ -1,0 +1,29 @@
+{
+  "functional_results": [],
+  "api_results": [],
+  "load_results": [],
+  "visual_results": [
+    {
+      "name": "Visual test for https://www.beacontutorials.com/event-gallery",
+      "status": "error",
+      "error": "Page.set_viewport_size() got an unexpected keyword argument 'width'"
+    },
+    {
+      "name": "Visual test for https://www.beacontutorials.com/all-courses",
+      "status": "error",
+      "error": "Page.set_viewport_size() got an unexpected keyword argument 'width'"
+    },
+    {
+      "name": "Visual test for https://www.beacontutorials.com/student-corner",
+      "status": "error",
+      "error": "Page.set_viewport_size() got an unexpected keyword argument 'width'"
+    }
+  ],
+  "accessibility_results": [],
+  "summary": {
+    "total": 3,
+    "passed": 0,
+    "failed": 3,
+    "success_rate": 0.0
+  }
+}

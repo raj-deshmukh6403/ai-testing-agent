@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visual Regression Test Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-result { border: 1px solid #ddd; margin: 20px 0; padding: 15px; }
+        .passed { border-left: 5px solid #4CAF50; }
+        .failed { border-left: 5px solid #f44336; }
+        .error { border-left: 5px solid #ff9800; }
+        .screenshot { max-width: 300px; margin: 10px; }
+        .comparison { display: flex; gap: 10px; }
+        .similarity { font-weight: bold; }
+        .high-similarity { color: #4CAF50; }
+        .low-similarity { color: #f44336; }
+    </style>
+</head>
+<body>
+    <h1>Visual Regression Test Report</h1>
+    <p>Generated on: 2025-06-14 11:40:21</p>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <p>Total Tests: 1</p>
+        <p>Passed: 1</p>
+        <p>Failed: 0</p>
+        <p>Errors: 0</p>
+    </div>
+    
+    
+    <div class="test-result passed">
+        <h3>Visual Regression Test</h3>
+        <p><strong>URL:</strong> https://www.beacontutorials.com/</p>
+        <p><strong>Status:</strong> passed</p>
+        
+        
+        <p><strong>Similarity:</strong> 
+            <span class="similarity high-similarity">
+                100.00%
+            </span>
+        </p>
+        
+        
+        
+        <div class="comparison">
+            
+            <div>
+                <h4>Baseline</h4>
+                <img src="screenshots/baselines/visual_regression_test.png" class="screenshot" alt="Baseline">
+            </div>
+            
+            
+            <div>
+                <h4>Current</h4>
+                <img src="screenshots/current/visual_regression_test.png" class="screenshot" alt="Current">
+            </div>
+            
+            
+        </div>
+        
+        
+        
+    </div>
+    
+</body>
+</html>

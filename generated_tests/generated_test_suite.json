@@ -1,0 +1,93 @@
+{
+  "functional_tests": [],
+  "api_tests": [],
+  "load_tests": "",
+  "visual_tests": [
+    {
+      "name": "Visual test for https://www.beacontutorials.com/event-gallery",
+      "url": "https://www.beacontutorials.com/event-gallery",
+      "baseline_screenshot": "screenshots\\www.beacontutorials.com_event-gallery.png",
+      "type": "full_page"
+    },
+    {
+      "name": "Visual test for https://www.beacontutorials.com/all-courses",
+      "url": "https://www.beacontutorials.com/all-courses",
+      "baseline_screenshot": "screenshots\\www.beacontutorials.com_all-courses.png",
+      "type": "full_page"
+    },
+    {
+      "name": "Visual test for https://www.beacontutorials.com/student-corner",
+      "url": "https://www.beacontutorials.com/student-corner",
+      "baseline_screenshot": "screenshots\\www.beacontutorials.com_student-corner.png",
+      "type": "full_page"
+    }
+  ],
+  "accessibility_tests": [
+    {
+      "name": "Accessibility test for unknown",
+      "url": null,
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    },
+    {
+      "name": "Accessibility test for https://www.beacontutorials.com/event-gallery",
+      "url": "https://www.beacontutorials.com/event-gallery",
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    },
+    {
+      "name": "Accessibility test for unknown",
+      "url": null,
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    },
+    {
+      "name": "Accessibility test for https://www.beacontutorials.com/all-courses",
+      "url": "https://www.beacontutorials.com/all-courses",
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    },
+    {
+      "name": "Accessibility test for unknown",
+      "url": null,
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    },
+    {
+      "name": "Accessibility test for https://www.beacontutorials.com/student-corner",
+      "url": "https://www.beacontutorials.com/student-corner",
+      "checks": [
+        "alt_text",
+        "form_labels",
+        "heading_structure",
+        "color_contrast",
+        "keyboard_navigation"
+      ]
+    }
+  ]
+}
